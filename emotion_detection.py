@@ -23,3 +23,5 @@ def emotion_detector(text_to_analyze):
         emotions['sadness'] = None
         emotions['dominant_emotion'] = None
     return emotions
+    if __name__ == "__main__":
+
