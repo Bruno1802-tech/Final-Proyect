@@ -1,0 +1,9 @@
+test_anger (5a_unit_testing.TestEmotionDetector) ... ok
+test_empty_input (5a_unit_testing.TestEmotionDetector) ... ok
+test_joy (5a_unit_testing.TestEmotionDetector) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.326s
+
+OK
+{'anger': 0.011678416, 'disgust': 0.011485759, 'fear': 0.018956874, 'joy': 0.9604377, 'sadness': 0.044082753, 'dominant_emotion': 'joy'}
